@@ -1,0 +1,626 @@
+{
+  "schema": 1,
+  "updated_at": "2026-11-15",
+  "flags": {
+    "ads_enabled": true,
+    "affiliates_enabled": true,
+    "amazon_enabled": false,
+    "rewarded_enabled": true
+  },
+  "limits": {
+    "free_per_day": 5,
+    "reward_bonus": 3,
+    "max_rewards_per_day": 2
+  },
+  "products": [
+    {
+      "id": "substrato_aroide_01",
+      "category": "substrato_aroide",
+      "title": {
+        "pt": "Substrato para aráceas (com casca e fibra)",
+        "en": "Aroid potting mix"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/substrato-para-aroides"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=aroid+potting+mix"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=aroid+potting+mix"
+          }
+        ]
+      }
+    },
+    {
+      "id": "substrato_suculenta_01",
+      "category": "substrato_suculenta",
+      "title": {
+        "pt": "Substrato para cactos e suculentas",
+        "en": "Cactus & succulent soil"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/substrato-para-suculentas"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=cactus+succulent+soil"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=cactus+succulent+soil"
+          }
+        ]
+      }
+    },
+    {
+      "id": "substrato_universal_01",
+      "category": "substrato_universal",
+      "title": {
+        "pt": "Substrato universal para plantas",
+        "en": "All-purpose potting mix"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/substrato-para-plantas"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=potting+mix+indoor+plants"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=potting+mix+indoor+plants"
+          }
+        ]
+      }
+    },
+    {
+      "id": "substrato_orquidea_01",
+      "category": "substrato_orquidea",
+      "title": {
+        "pt": "Casca de pinus para orquídeas",
+        "en": "Orchid bark mix"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/casca-de-pinus-orquidea"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=orchid+bark+mix"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=orchid+bark+mix"
+          }
+        ]
+      }
+    },
+    {
+      "id": "substrato_horta_01",
+      "category": "substrato_horta",
+      "title": {
+        "pt": "Substrato para hortaliças e temperos",
+        "en": "Herb & vegetable potting mix"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/substrato-para-horta"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=herb+potting+mix"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=herb+potting+mix"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaso_com_furo_01",
+      "category": "vaso_com_furo",
+      "title": {
+        "pt": "Vaso com furo de drenagem",
+        "en": "Pot with drainage hole"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/vaso-com-furo-drenagem"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=plant+pot+with+drainage+hole"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=plant+pot+with+drainage+hole"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaso_autoirrigavel_01",
+      "category": "vaso_autoirrigavel",
+      "title": {
+        "pt": "Vaso autoirrigável",
+        "en": "Self-watering pot"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/vaso-autoirrigavel"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=self+watering+pot"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=self+watering+pot"
+          }
+        ]
+      }
+    },
+    {
+      "id": "vaso_orquidea_01",
+      "category": "vaso_orquidea",
+      "title": {
+        "pt": "Vaso para orquídea",
+        "en": "Orchid pot"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/vaso-para-orquidea"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=orchid+pot+with+holes"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=orchid+pot+with+holes"
+          }
+        ]
+      }
+    },
+    {
+      "id": "adubo_folhagem_01",
+      "category": "adubo_folhagem",
+      "title": {
+        "pt": "Adubo para folhagens (NPK equilibrado)",
+        "en": "Houseplant fertilizer"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/adubo-para-folhagens"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=houseplant+fertilizer"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=houseplant+fertilizer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "adubo_florescimento_01",
+      "category": "adubo_florescimento",
+      "title": {
+        "pt": "Adubo para floração",
+        "en": "Bloom booster fertilizer"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/adubo-para-floracao"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=bloom+booster+fertilizer"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=bloom+booster+fertilizer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "adubo_suculenta_01",
+      "category": "adubo_suculenta",
+      "title": {
+        "pt": "Adubo para cactos e suculentas",
+        "en": "Cactus fertilizer"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/adubo-para-suculentas"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=cactus+succulent+fertilizer"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=cactus+succulent+fertilizer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "adubo_orquidea_01",
+      "category": "adubo_orquidea",
+      "title": {
+        "pt": "Adubo para orquídeas",
+        "en": "Orchid fertilizer"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/adubo-para-orquidea"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=orchid+fertilizer"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=orchid+fertilizer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "adubo_horta_01",
+      "category": "adubo_horta",
+      "title": {
+        "pt": "Adubo orgânico para horta",
+        "en": "Organic herb fertilizer"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/adubo-organico-horta"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=organic+herb+fertilizer"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=organic+herb+fertilizer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tutor_musgo_01",
+      "category": "tutor_musgo",
+      "title": {
+        "pt": "Tutor de musgo / fibra de coco",
+        "en": "Moss pole"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/tutor-de-musgo"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=moss+pole+for+plants"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=moss+pole+for+plants"
+          }
+        ]
+      }
+    },
+    {
+      "id": "borrifador_01",
+      "category": "borrifador",
+      "title": {
+        "pt": "Borrifador de névoa fina",
+        "en": "Fine mist plant sprayer"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/borrifador-plantas"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=plant+mister+spray+bottle"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=plant+mister+spray+bottle"
+          }
+        ]
+      }
+    },
+    {
+      "id": "regador_01",
+      "category": "regador",
+      "title": {
+        "pt": "Regador de bico longo",
+        "en": "Long-spout watering can"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/regador-bico-longo"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=indoor+watering+can+long+spout"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=indoor+watering+can+long+spout"
+          }
+        ]
+      }
+    },
+    {
+      "id": "umidificador_01",
+      "category": "umidificador",
+      "title": {
+        "pt": "Umidificador de ar",
+        "en": "Humidifier for plants"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/umidificador-de-ar"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=humidifier+for+plants"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=humidifier+for+plants"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pedras_drenagem_01",
+      "category": "pedras_drenagem",
+      "title": {
+        "pt": "Argila expandida para drenagem",
+        "en": "Clay pebbles for drainage"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/argila-expandida"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=leca+clay+pebbles"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=leca+clay+pebbles"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tesoura_poda_01",
+      "category": "tesoura_poda",
+      "title": {
+        "pt": "Tesoura de poda",
+        "en": "Pruning shears"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/tesoura-de-poda"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=pruning+shears"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=pruning+shears"
+          }
+        ]
+      }
+    },
+    {
+      "id": "oleo_neem_01",
+      "category": "oleo_neem",
+      "title": {
+        "pt": "Óleo de neem (controle de pragas)",
+        "en": "Neem oil (pest control)"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/oleo-de-neem-plantas"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=neem+oil+for+plants"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=neem+oil+for+plants"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cachepo_suspenso_01",
+      "category": "cachepo_suspenso",
+      "title": {
+        "pt": "Cachepô / vaso suspenso",
+        "en": "Hanging planter"
+      },
+      "image": null,
+      "links": {
+        "BR": [
+          {
+            "store": "mercadolivre",
+            "url": "https://lista.mercadolivre.com.br/vaso-suspenso"
+          }
+        ],
+        "US": [
+          {
+            "store": "amazon_us",
+            "url": "https://www.amazon.com/s?k=hanging+planter+indoor"
+          }
+        ],
+        "CA": [
+          {
+            "store": "amazon_ca",
+            "url": "https://www.amazon.ca/s?k=hanging+planter+indoor"
+          }
+        ]
+      }
+    }
+  ]
+}
